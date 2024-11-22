@@ -1,0 +1,27 @@
+.profile-card {
+  background-color: #f8e1f4;
+  border-radius: 15px;
+  padding: 20px;
+  text-align: center;
+  width: 250px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin: 10px;
+}
+
+.profile-img {
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+}
+
+.profile-name {
+  font-size: 1.5em;
+  color: #f85a7a;
+  font-family: 'Cursive', sans-serif;
+}
+
+.profile-description {
+  font-size: 1em;
+  color: #333;
+  font-family: 'Arial', sans-serif;
+}

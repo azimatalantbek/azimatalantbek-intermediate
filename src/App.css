@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+  font-family: 'Arial', sans-serif;
+  padding: 20px;
+}
+
+.header {
+  color: #f85a7a;
+  font-family: 'Cursive', sans-serif;
+  font-size: 2.5em;
+  margin-bottom: 40px;
+}
+
+.profile-section, .blog-section, .form-section {
+  margin-bottom: 40px;
+}
